@@ -1,4 +1,3 @@
-# __APPLICATOR_COMMENT__
 # virtualenv macros
 
 VENV_HOME="$HOME/virtualenv/"
